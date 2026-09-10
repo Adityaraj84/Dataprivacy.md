@@ -30,3 +30,13 @@ Postal address
 Contact number
 
 IRCTC also states that it may collect transactional history and information about other travellers for whom a booking is made.
+## Check automatically collected information
+jIRCTC states that its website/mobile applications record site-visit/session information, including:
+| Automatically Collected Data | Collected? |
+| ---------------------------- | ---------- |
+| IP address                   | ✅          |
+| Browser type                 | ✅          |
+| Operating system             | ✅          |
+| Access time                  | ✅          |
+| Pages accessed               | ✅          |
+| Session activity             | ✅          |
