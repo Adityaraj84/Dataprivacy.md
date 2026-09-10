@@ -84,8 +84,19 @@ The data privacy audit of the IRCTC website was successfully conducted. The audi
 ## Aim
 
 To conduct a Privacy Impact Assessment (PIA) of a Digital Payment System to identify the personal and financial data processed by the system, analyze potential privacy risks, and develop appropriate strategies to mitigate those risks.
-## Privacy Impact Assessment:
-Students can conduct a privacy impact assessment (PIA) of a 
-new technology or system to identify potential privacy risks and develop strategies to 
-mitigate them.
 
+## Introduction
+
+A Privacy Impact Assessment (PIA) is a systematic process used to identify and evaluate privacy risks associated with a technology, product, service, or system.
+
+A PIA helps an organization understand:
+
+What personal data is being collected?
+Why is the data being collected?
+How is the data processed?
+Where is the data stored?
+Who can access the data?
+Is the data shared with third parties?
+How long is the data retained?
+What could go wrong?
+How can privacy risks be reduced?
