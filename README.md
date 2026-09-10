@@ -48,3 +48,12 @@ According to IRCTC's privacy policy, the website uses cookies for personalizatio
 | Purpose               | Personalization/functionality/advertising effectiveness |
 | User browser controls | Available                                               |
 | Privacy concern       | Tracking/persistent preferences                         |
+## Check the registration page
+| Field         | Personal Data? | Necessary for service?    |
+| ------------- | -------------- | ------------------------- |
+| Name          | Yes            | Yes                       |
+| Mobile        | Yes            | Yes                       |
+| Email         | Yes            | Yes                       |
+| Date of birth | Yes            | Depends on stated purpose |
+| Address       | Yes            | Depends on service        |
+| Other fields  | Yes/No         | Evaluate                  |
