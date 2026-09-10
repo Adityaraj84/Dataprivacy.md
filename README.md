@@ -57,3 +57,19 @@ According to IRCTC's privacy policy, the website uses cookies for personalizatio
 | Date of birth | Yes            | Depends on stated purpose |
 | Address       | Yes            | Depends on service        |
 | Other fields  | Yes/No         | Evaluate                  |
+## Check how IRCTC uses personal information
+
+IRCTC says personal information may be used to:
+
+Confirm reservations
+Provide transaction status
+Send booking confirmations
+Send booking updates
+Contact customers when necessary
+Customize website/app content
+Send verification messages/emails
+Authenticate accounts
+Prevent misuse or abuse
+## Check data sharing
+
+IRCTC says information may be shared with service providers/suppliers responsible for fulfilling bookings. It also describes sharing with affiliates/associate entities under controlled circumstances and disclosures required by law or certain regulatory/legal processes.
