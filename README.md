@@ -76,3 +76,7 @@ IRCTC says information may be shared with service providers/suppliers responsibl
 ## Check security measures
 
 IRCTC's privacy policy states that payments are secured and that security measures are used to protect information against loss, misuse and alteration. It also states that secure servers are used when users access/change account information.
+## Result
+
+The data privacy audit of the IRCTC website was successfully conducted. The audit examined personal data collection, automatically logged session information, cookies, data usage, third-party data sharing, data retention, security practices, external links and marketing communications. Several privacy practices are documented by IRCTC, including security measures, explanations of data usage and an option to opt out of promotional communications. Potential privacy risks were also identified, particularly regarding session tracking, cookies, third-party data sharing, data retention and the processing of personal and transaction information.
+
