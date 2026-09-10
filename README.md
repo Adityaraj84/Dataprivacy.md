@@ -40,3 +40,11 @@ jIRCTC states that its website/mobile applications record site-visit/session inf
 | Access time                  | ✅          |
 | Pages accessed               | ✅          |
 | Session activity             | ✅          |
+## Audit Cookies
+According to IRCTC's privacy policy, the website uses cookies for personalization and effective functioning, and cookies may also be used to understand interests and track advertising effectiveness.
+| Parameter             | Observation                                             |
+| --------------------- | ------------------------------------------------------- |
+| Cookies used          | Yes                                                     |
+| Purpose               | Personalization/functionality/advertising effectiveness |
+| User browser controls | Available                                               |
+| Privacy concern       | Tracking/persistent preferences                         |
