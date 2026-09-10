@@ -3,7 +3,7 @@
 ## Objective
 - conduct a data privacy audit of an IRCTC's website and identify the types of personal data collected, methods of collection, privacy practices, possible privacy risks, and measures used to protect users' personal information.
 ## Check HTTPS
-hHTTPS	Enabled
+HTTPS	Enabled
 Secure connection	Yes
 Risk	Low
 ## Find the Privacy Policy
@@ -73,3 +73,6 @@ Prevent misuse or abuse
 ## Check data sharing
 
 IRCTC says information may be shared with service providers/suppliers responsible for fulfilling bookings. It also describes sharing with affiliates/associate entities under controlled circumstances and disclosures required by law or certain regulatory/legal processes.
+## Check security measures
+
+IRCTC's privacy policy states that payments are secured and that security measures are used to protect information against loss, misuse and alteration. It also states that secure servers are used when users access/change account information.
